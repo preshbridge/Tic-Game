@@ -1,0 +1,17 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+.vs/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.unityproj
+*.suo
+*.userprefs
+*.apk
+*.aab
+.DS_Store

@@ -1,0 +1,35 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="ButtonClickEvent">
+			<method name="SetComputerSpace"/>
+			<method name="SetComputerSpace"/>
+			<method name="SetComputerSpace"/>
+			<method name="SetComputerSpace"/>
+			<method name="SetComputerSpace"/>
+			<method name="SetComputerSpace"/>
+			<method name="SetComputerSpace"/>
+			<method name="SetComputerSpace"/>
+			<method name="SetComputerSpace"/>
+			<method name="SetSpace"/>
+			<method name="SetSpace"/>
+			<method name="SetSpace"/>
+			<method name="SetSpace"/>
+			<method name="SetSpace"/>
+			<method name="SetSpace"/>
+			<method name="SetSpace"/>
+			<method name="SetSpace"/>
+			<method name="SetSpace"/>
+		</type>
+		<type fullname="GameController">
+			<method name="RestartGame"/>
+		</type>
+		<type fullname="GameController1">
+			<method name="RestartGame"/>
+		</type>
+		<type fullname="MainMenu">
+			<method name="QuitGame"/>
+			<method name="StartPlayerVsComputer"/>
+			<method name="StartPlayerVsPlayer"/>
+		</type>
+	</assembly>
+</linker>
